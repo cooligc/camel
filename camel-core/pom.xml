@@ -167,7 +167,6 @@
       <groupId>javax.activation</groupId>
       <artifactId>javax.activation-api</artifactId>
       <version>${activation-api-version}</version>
-      <optional>true</optional>
     </dependency>
 
     <!-- in Java 11+ SAAJ is no longer included -->

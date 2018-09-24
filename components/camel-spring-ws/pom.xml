@@ -58,6 +58,11 @@
       <version>${javax.servlet-api-version}</version>
       <scope>provided</scope>
     </dependency>
+    <dependency>
+      <groupId>javax.xml</groupId>
+      <artifactId>webservices-api</artifactId>
+      <version>${webservices-api-version}</version>
+    </dependency>
 
     <!-- spring -->
     <dependency>
@@ -76,11 +81,6 @@
       <version>${spring-ws-version}</version>
     </dependency>
 
-    <dependency>
-      <groupId>javax.xml.bind</groupId>
-      <artifactId>jaxb-api</artifactId>
-      <version>${jaxb-version}</version>
-    </dependency>
     <dependency>
       <groupId>javax.annotation</groupId>
       <artifactId>javax.annotation-api</artifactId>

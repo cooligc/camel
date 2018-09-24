@@ -53,16 +53,6 @@
         </dependency>
 
         <dependency>
-            <groupId>javax.xml.bind</groupId>
-            <artifactId>jaxb-api</artifactId>
-            <version>${jaxb-version}</version>
-        </dependency>
-        <dependency>
-            <groupId>javax.activation</groupId>
-            <artifactId>javax.activation-api</artifactId>
-            <version>${activation-api-version}</version>
-        </dependency>
-        <dependency>
             <groupId>javax.xml</groupId>
             <artifactId>webservices-api</artifactId>
             <version>${webservices-api-version}</version>
